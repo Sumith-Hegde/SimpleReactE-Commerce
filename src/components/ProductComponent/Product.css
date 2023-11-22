@@ -1,0 +1,17 @@
+.product {
+    flex: 0 1 calc(30% - 20px);
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.product img {
+    max-width: 100%;
+}
+
+.price {
+    font-weight: bold;
+    color: #0077b6;
+}

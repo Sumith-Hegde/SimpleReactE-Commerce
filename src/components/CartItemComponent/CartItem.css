@@ -1,0 +1,23 @@
+/* Add this to your CSS file or style block */
+.quantity-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+
+.quantity-buttons button {
+    width: 40%;
+    height: 40px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 40px;
+    text-align: center;
+    line-height: 5%;
+}
+
+.quantity-buttons button:hover {
+    background-color: #0056b3;
+}
